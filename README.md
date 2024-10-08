@@ -89,6 +89,4 @@ Start the Client
 
 ![ViewOtherUsersProfile](https://github.com/opacarophile08/Lets-talk/blob/main/Assets/ViewOtherUsersProfile.png)
 
-## Made By
 
-- [@Arpit-Pandey](https://github.com/opacarophile08)
